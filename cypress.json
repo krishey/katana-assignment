@@ -1,0 +1,6 @@
+{
+    "integrationFolder": "cypress/integration",
+    "baseurl": "https://katanamrp.com",
+    "viewportWidth": 1366,
+    "viewportHeight": 768
+}
